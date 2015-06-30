@@ -12,4 +12,4 @@ Today is Saturday May 30,2015
   I want to go home,I miss my mom so much.there are 6 days left
   today
   today is a embarrassed day
-  to
+  tod
