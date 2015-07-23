@@ -19,4 +19,4 @@ Today is Saturday May 30,2015
   today
   today
   today
-  toda
+  today
