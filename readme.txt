@@ -11,7 +11,7 @@ Today is Saturday May 30,2015
   today is Fri June 26,2015
   I want to go home,I miss my mom so much.there are 6 days left
   today xyzabcdefghijklmnopqrstuvwxyzabcdefhijklm
-  today b
+  today abc
   today 0
   today 1
   today 2
